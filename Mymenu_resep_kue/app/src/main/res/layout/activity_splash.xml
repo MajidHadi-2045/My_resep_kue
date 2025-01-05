@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F5B8A6">
+
+        <ImageView
+            android:id="@+id/splash_logo"
+            android:layout_width="191dp"
+            android:layout_height="276dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="109dp"
+            android:layout_marginTop="88dp"
+            android:layout_marginEnd="112dp"
+            android:background="#F4B7A5"
+            android:src="@drawable/th_rv" />
+
+        <TextView
+            android:id="@+id/splash_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="96dp"
+            android:layout_marginTop="330dp"
+            android:layout_marginEnd="93dp"
+            android:layout_marginBottom="49dp"
+            android:text="Application by Majid Solihin"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <ProgressBar
+            android:id="@+id/splash_progress"
+            android:layout_width="52dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/splash_logo"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="192dp"
+            android:layout_marginTop="207dp"
+            android:layout_marginEnd="167dp"
+            android:layout_marginBottom="110dp"
+            android:indeterminate="true" />
+
+    </RelativeLayout>
+</layout>

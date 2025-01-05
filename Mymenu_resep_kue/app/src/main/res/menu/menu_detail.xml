@@ -1,0 +1,32 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btn_share"
+        android:title="Share"
+        android:icon="@android:drawable/ic_menu_share"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/btn_whatsapp"
+        android:title="Share to WhatsApp"
+        android:icon="@drawable/ic_whatsapp"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/btn_instagram"
+        android:title="Share to Instagram"
+        android:icon="@drawable/ic_instagram"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/btn_telegram"
+        android:title="Share to Telegram"
+        android:icon="@drawable/ic_telegram"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/btn_gmail"
+        android:title="Share via Gmail"
+        android:icon="@drawable/ic_gmail"
+        app:showAsAction="never" />
+</menu>

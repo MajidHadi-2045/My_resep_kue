@@ -1,0 +1,200 @@
+<resources>
+    <string name="app_name">Mymenu_resep_kue</string>
+    <string name="kue_name">Nama Kue</string>
+    <string name="description">Deskripsi</string>
+    <string name="share_button">Bagikan</string>
+    <string name="share_via">Bagikan via</string>
+
+    <string name="jenis_kue">Jenis Kue</string>
+    <string name="detail_kue">Detail Kue</string>
+    <string name="kategori">kategori</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About Me</string>
+    <string name="about_nama">Majid Solihin Hadi</string>
+    <string name="about_email">majidhadi02@gmail.com</string>
+
+    <string-array name="data_name">
+        <item> Brownies</item>
+        <item> Chiffon Cake</item>
+        <item> Cheesecake</item>
+        <item> Nastar</item>
+        <item> Macaron</item>
+        <item> Klepon</item>
+        <item> Lapis Legit</item>
+        <item> Cupcake</item>
+        <item> Donat</item>
+        <item> Tiramisu</item>
+    </string-array>
+
+    <string-array name="data_kategori">
+        <item>Kategori:Kue Modern/Panggang</item>
+        <item>Kategori:Kue Modern/Bolu</item>
+        <item>Kategori:Kue Modern </item>
+        <item>Kategori:Kue Modern-Tradisioanl/Kering</item>
+        <item>Kategori:Kue Modern/Goreng</item>
+        <item>Kategori:Kue Tradisonal</item>
+        <item>Kategori:Kue Tradisional</item>
+        <item>Kategori:Kue Modern/Mini</item>
+        <item>Kategori:Kue Modern/Goreng</item>
+        <item>Kategori:Kue Modern</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Kue Brownies merupakan kue yang terbuat dari bahan-bahan seperti tepung terigu, coklat, mentega, dan telur. Proses pembuatannya melibatkan mencampurkan bahan-bahan basah dan kering, kemudian dipanggang dalam oven hingga matang. Kue ini memiliki tekstur yang padat di bagian luar dan lembut serta fudgy di dalamnya. Untuk variasi, dapat ditambahkan kacang atau choco chips pada adonan.</item>
+        <item>Chiffon Cake memiliki tekstur yang ringan dan lembut karena penggunaan putih telur yang dikocok hingga kaku. Bahan utama chiffon cake meliputi tepung terigu, gula, minyak sayur, dan telur. Kue ini dipanggang dengan loyang khusus yang memiliki lubang di tengahnya untuk membantu distribusi panas yang merata.</item>
+        <item>Cheesecake adalah kue yang dibuat dari krim keju, telur, dan gula, dengan dasar kue berupa remah biskuit yang dipadatkan dengan mentega cair. Cheesecake bisa dipanggang atau disajikan tanpa dipanggang, dengan beragam topping seperti buah segar, cokelat, atau saus buah.</item>
+        <item>Kue Nastar terbuat dari adonan tepung terigu, mentega, telur, dan selai nanas. Kue ini dibentuk bola kecil, kemudian diisi dengan selai nanas dan dipanggang hingga matang. Setelah matang, nastar akan berwarna keemasan dan memiliki rasa manis dan sedikit asam dari selai nanas, serta gurih dari adonan kulit kue.</item>
+        <item>Macaron adalah kue kecil berbentuk bulat yang terbuat dari putih telur, gula bubuk, dan tepung almond. Teksturnya renyah di luar dan lembut di dalam. Macaron biasanya disajikan dengan isian krim seperti ganache, buttercream, atau selai di antara dua bagian kue.</item>
+        <item>Klepon adalah jajanan tradisional berbentuk bulat kecil dengan isian gula merah cair. Kue ini terbuat dari tepung ketan yang dicampur dengan air pandan untuk memberi warna hijau. Setelah direbus, klepon dilapisi kelapa parut yang memberikan rasa gurih dan manis saat dimakan.</item>
+        <item>Lapis Legit menggunakan bahan utama seperti telur, mentega, gula, dan rempah-rempah seperti kayu manis dan cengkeh. Proses pembuatannya memerlukan teknik lapis, di mana setiap lapisan adonan dipanggang secara terpisah hingga membentuk lapisan yang tipis. Rasanya yang kaya dan gurih berasal dari perpaduan rempah dan bahan-bahan alami lainnya.</item>
+        <item>Cupcake adalah kue kecil yang dipanggang dalam cetakan kecil berbentuk cangkir. Bahan-bahannya meliputi tepung terigu, telur, mentega, dan gula. Cupcake sering dihiasi dengan topping seperti buttercream, fondant, atau taburan warna-warni untuk mempercantik tampilannya.</item>
+        <item>Donat terdiri dari bahan-bahan seperti tepung terigu, ragi, gula, telur, dan mentega. Proses pembuatan donat dimulai dengan merendam ragi dalam air hangat, kemudian mencampur adonan dan membentuknya menjadi lingkaran kecil. Donat kemudian digoreng hingga berwarna keemasan dan bisa diberi topping seperti gula halus, coklat leleh, atau berbagai jenis topping lainnya.</item>
+        <item>Tiramisu adalah dessert khas Italia yang terdiri dari lapisan ladyfinger yang dicelupkan dalam kopi, dipadukan dengan krim keju mascarpone, dan diberi taburan bubuk cokelat. Kue ini biasanya disusun dalam loyang dan didinginkan sebelum disajikan untuk mendapatkan rasa yang lembut dan kaya.</item>
+    </string-array>
+
+    <string-array name="data_detail">
+    <item>
+        Brownies ini adalah pilihan tepat untuk Anda yang menyukai kue manis dengan tekstur lembut dan kenyal. Rasanya yang kaya coklat akan memanjakan lidah.
+        \n\nBahan yang dibutuhkan untuk membuat brownies ini adalah:
+        - 200 gram dark chocolate
+        - 100 gram mentega
+        - 3 butir telur
+        - 150 gram gula pasir
+        - 100 gram tepung terigu
+        - 50 gram kacang kenari (optional)
+        - 1/2 sendok teh vanili
+        \n\nCara membuatnya sangat mudah. Lelehkan dark chocolate dan mentega dalam satu wadah dengan cara di tim. Kocok telur dan gula pasir hingga mengembang, lalu campurkan dengan coklat leleh. Tambahkan tepung terigu, vanili, dan kacang kenari jika suka. Aduk rata, kemudian tuangkan adonan ke dalam loyang yang telah dialasi kertas roti. Panggang di suhu 180°C selama 20-25 menit. Brownies siap disajikan.
+    </item>
+
+        <item>
+        Chiffon cake ini adalah kue lembut dan ringan yang cocok untuk teman minum teh atau kopi. Rasanya yang manis dan sedikit gurih akan memberikan kenikmatan tersendiri.
+        \n\nBahan yang dibutuhkan untuk membuat chiffon cake ini adalah:
+        - 150 gram tepung terigu
+        - 150 gram gula pasir
+        - 6 butir telur
+        - 150 ml minyak sayur
+        - 100 ml air
+        - 1 sendok teh vanili
+        - 1/2 sendok teh cream of tartar
+        - 1/2 sendok teh baking powder
+        \n\nCara membuatnya adalah dengan memisahkan kuning dan putih telur. Kocok kuning telur bersama gula pasir, vanili, minyak, dan air hingga rata. Masukkan tepung terigu yang telah dicampur baking powder, aduk rata. Kocok putih telur dengan cream of tartar hingga mengembang dan kaku, lalu campurkan dengan adonan kuning telur secara perlahan. Tuangkan ke dalam loyang chiffon dan panggang pada suhu 170°C selama 30-35 menit. Dinginkan sebelum dipotong dan disajikan.
+    </item>
+
+        <item>
+        Cheesecake ini adalah kue yang memiliki tekstur lembut dan rasa creamy yang sangat menggoda. Sangat cocok untuk penyuka kue keju.
+        \n\nBahan yang dibutuhkan untuk membuat cheesecake ini adalah:
+        - 200 gram biskuit Marie
+        - 100 gram mentega leleh
+        - 500 gram cream cheese
+        - 200 ml krim kental
+        - 150 gram gula pasir
+        - 3 butir telur
+        - 1 sendok teh vanili
+        \n\nCara membuatnya, pertama-tama hancurkan biskuit Marie hingga halus, kemudian campur dengan mentega leleh dan ratakan di dasar loyang sebagai lapisan dasar. Panggang selama 10 menit di suhu 180°C. Untuk isian, kocok cream cheese dan gula pasir hingga halus, tambahkan krim kental, telur, dan vanili. Tuangkan adonan ke atas lapisan biskuit dan panggang lagi pada suhu 160°C selama 45 menit. Diamkan hingga dingin sebelum disajikan.
+    </item>
+
+        <item>
+        Nastar adalah kue kering yang terkenal dengan isian selai nanasnya yang manis dan sedikit asam. Kue ini cocok untuk perayaan atau hidangan spesial.
+        \n\nBahan yang dibutuhkan untuk membuat nastar ini adalah:
+        - 250 gram tepung terigu
+        - 100 gram mentega
+        - 50 gram margarin
+        - 100 gram gula halus
+        - 2 kuning telur
+        - 1 sendok teh vanili
+        - 150 gram selai nanas
+        \n\nCara membuatnya, campurkan tepung terigu, mentega, margarin, gula halus, dan vanili. Aduk hingga tercampur rata, kemudian tambahkan kuning telur dan aduk hingga kalis. Ambil sejumput adonan, pipihkan, beri selai nanas, bentuk bola, dan rapatkan. Letakkan di atas loyang dan oleskan kuning telur pada permukaannya. Panggang pada suhu 170°C selama 20-25 menit. Nastar siap dinikmati.
+    </item>
+
+        <item>
+        Macaron adalah kue kecil dengan tekstur renyah di luar dan lembut di dalam, dipasangkan dengan krim isian. Rasanya yang manis membuatnya disukai banyak orang.
+        \n\nBahan yang dibutuhkan untuk membuat macaron ini adalah:
+        - 150 gram almond bubuk
+        - 150 gram gula icing
+        - 100 gram gula pasir
+        - 3 butir putih telur
+        - Pewarna makanan (opsional)
+        - 100 gram butter
+        - 50 gram coklat putih (untuk isian)
+        \n\nCara membuatnya adalah dengan mengayak almond bubuk dan gula icing. Kocok putih telur hingga kaku, lalu tambahkan gula pasir sedikit-sedikit. Campurkan campuran almond dengan putih telur secara perlahan. Pipe adonan ke atas loyang dan biarkan mengering selama 30 menit. Panggang di suhu 150°C selama 15-20 menit. Untuk isian, lelehkan coklat putih dan campurkan dengan butter. Setelah macaron dingin, isi dengan krim coklat putih.
+    </item>
+
+        <item>
+        Klepon adalah kue ketan isi kelapa dengan gula merah yang meleleh di dalam. Kue ini sangat populer sebagai jajanan tradisional.
+        \n\nBahan yang dibutuhkan untuk membuat klepon ini adalah:
+        - 250 gram tepung ketan
+        - 200 ml air daun pandan suji
+        - 1 sendok teh air daun suji (optional)
+        - 100 gram kelapa parut kasar
+        - 100 gram gula merah serut
+        \n\nCara membuatnya adalah dengan mencampurkan tepung ketan dan air daun pandan, aduk rata. Diamkan sebentar hingga adonan bisa dipulung. Ambil sejumput adonan, beri gula merah serut di tengah, rapatkan dan bulatkan. Rebus klepon dalam air mendidih hingga bola klepon mengapung. Setelah itu, gulingkan klepon dalam kelapa parut kasar. Klepon siap dinikmati.
+    </item>
+
+        <item>
+        Lapis legit adalah kue dengan lapisan tipis yang lembut, penuh rasa rempah, dan kaya akan mentega. Kue ini sering menjadi hidangan spesial di acara tertentu.
+        \n\nBahan yang dibutuhkan untuk membuat lapis legit ini adalah:
+        - 300 gram mentega
+        - 250 gram gula pasir
+        - 6 butir telur
+        - 200 gram tepung terigu
+        - 1 sendok teh kayu manis
+        - 1/2 sendok teh cengkeh bubuk
+        - 1/2 sendok teh pala bubuk
+        \n\nCara membuatnya adalah dengan mengocok mentega dan gula hingga lembut. Masukkan telur satu per satu, aduk rata. Campurkan tepung terigu dengan rempah-rempah dan masukkan sedikit demi sedikit ke dalam adonan. Tuangkan adonan ke dalam loyang lapis tipis, panggang dalam suhu 150°C selama 10 menit, kemudian tuangkan adonan lagi dan panggang hingga selesai. Lapis legit siap disajikan.
+    </item>
+
+        <item>
+        Cupcake adalah kue kecil yang lembut dan cocok untuk semua kalangan. Dihias dengan buttercream, cupcake ini menjadi pilihan praktis untuk camilan.
+        \n\nBahan yang dibutuhkan untuk membuat cupcake ini adalah:
+        - 150 gram tepung terigu
+        - 100 gram gula pasir
+        - 2 butir telur
+        - 100 gram mentega
+        - 50 ml susu cair
+        - 1/2 sendok teh baking powder
+        - 1/2 sendok teh vanili
+        \n\nCara membuatnya adalah dengan mengocok mentega dan gula pasir hingga lembut, lalu tambahkan telur satu per satu. Campurkan bahan kering tepung terigu, baking powder, dan vanili. Masukkan susu cair dan aduk rata. Tuang adonan ke dalam cupcake mold dan panggang pada suhu 180°C selama 15-20 menit. Setelah dingin, hias dengan buttercream sesuai selera.
+    </item>
+
+        <item>
+        Donat ini sangat terkenal dengan bentuknya yang bulat dan lubang di tengah. Kue ini enak dinikmati dengan taburan gula halus atau coklat leleh.
+        \n\nBahan yang dibutuhkan untuk membuat donat ini adalah:
+        - 250 gram tepung terigu
+        - 5 gram ragi instan
+        - 50 gram gula pasir
+        - 1 butir telur
+        - 50 ml susu cair
+        - 50 gram mentega
+        - Minyak untuk menggoreng
+        \n\nCara membuatnya adalah dengan mencampurkan tepung terigu, ragi, dan gula pasir. Tambahkan telur, susu cair, dan mentega. Uleni hingga adonan kalis. Diamkan selama 1 jam hingga mengembang. Setelah itu, pipihkan adonan dan bentuk bulatan dengan lubang di tengahnya. Goreng dalam minyak panas hingga kuning keemasan. Donat siap disajikan, bisa ditaburi gula halus atau disiram coklat leleh.
+    </item>
+
+        <item>
+        Tiramisu adalah kue lapis yang terbuat dari lapisan biskuit ladyfinger yang direndam kopi dan dilapisi dengan krim mascarpone yang lembut. Rasanya yang manis dan pahit akan menggugah selera.
+        \n\nBahan yang dibutuhkan untuk membuat tiramisu ini adalah:
+        - 200 gram biskuit ladyfinger
+        - 250 gram mascarpone cheese
+        - 200 ml krim kental
+        - 100 gram gula pasir
+        - 100 ml kopi espresso
+        - 2 sendok makan rum (optional)
+        \n\nCara membuatnya adalah dengan mencampurkan mascarpone cheese dan krim kental hingga halus. Kocok gula pasir dengan krim hingga mengembang. Rendam biskuit ladyfinger dalam kopi yang sudah dingin, kemudian susun di dasar loyang. Lapisi dengan krim mascarpone, lalu susun lagi biskuit ladyfinger. Ulangi lapisan hingga bahan habis. Dinginkan dalam kulkas selama 4 jam sebelum disajikan.
+    </item>
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/brownies</item>//brownies
+        <item>@drawable/chiffon_cake</item>//chiffon_cake
+        <item>@drawable/cheesecake</item>//cheesecake
+        <item>@drawable/nastar</item>nastar
+        <item>@drawable/macaron</item>
+        <item>@drawable/klepon</item>klepon
+        <item>@drawable/resep_lapis_legit</item>//resep_lapis_legit
+        <item>@drawable/cupcake</item>//cupcake
+        <item>@drawable/donat</item>//donat
+        <item>@drawable/tiramisu</item>//tiramisu
+    </integer-array>
+
+</resources>
